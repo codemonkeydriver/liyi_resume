@@ -47,10 +47,12 @@
 
 ### 2012.3 - 2012.6 yunnan linux technology suppert center ###
 
-* I was responsible for package the linux operation system,builded batching compiled
-  server koji for building package from source code to RPM, maintain software yum repo
-  for updating, using shell script to analysis CD configuration file, picked up a list
-  of essential pakcage we need, uploaded to yum repo, compiled linux kernel.
+#### practise ####
+
+> I was responsible for package the linux operation system,builded batching compiled
+> server koji for building package from source code to RPM, maintain software yum repo
+> for updating, using shell script to analysis CD configuration file, picked up a list
+> of essential pakcage we need, uploaded to yum repo, compiled linux kernel.
 
 ### 2012.9 - now loongson technology ###
 
