@@ -91,13 +91,12 @@
 
 ### libylea ###
 
-模仿C++ STL编写的函数库,实现了list, queue, stack, vector。
+>模仿C++ STL编写的函数库,实现了list, queue, stack, vector。
 
 ### arduino_pi ###
 
-1. pi_send_data_to_uno，树莓派通过GPIO给控制UNO,使用C和python编写。
-
-2. uno_say_hi_to_pi, UNO通过串口给pi发送信息,使用C和python编写。
+>1. pi_send_data_to_uno，树莓派通过GPIO给控制UNO,使用C和python编写。
+>2. uno_say_hi_to_pi, UNO通过串口给pi发送信息,使用C和python编写。
 
 ### linux_config ###
 
@@ -106,7 +105,7 @@
 
 ### wine for mips ###
 
-阅读wine源代码，在之前同事的基础上将wine移植到MIPS架构上。(还停留在源码阅读阶段)
+>阅读wine源代码，在之前同事的基础上将wine移植到MIPS架构上。(还停留在源码阅读阶段)
 
 -------------------
 ## 个人爱好 ##

@@ -4,14 +4,14 @@
 ### Personal Information ###
 
 * name:             liyi
-* job intension     linux system software engineer, linux driver software engineer
-* gender            male
-* CET               4
-* phone number      18612363082
-* birthday          1989.12.2
-* blog              http://cfylee.me
-* github            https://github.com/codemonkeydriver
-* E-mail            codemonkeydriver@gmail.com
+* job intension:    linux system software engineer, linux driver software engineer
+* gender:           male
+* CET:              4
+* phone number:     18612363082
+* birthday:         1989.12.2
+* blog:             http://cfylee.me
+* github:           https://github.com/codemonkeydriver
+* E-mail:           codemonkeydriver@gmail.com
 
 -------------------
 ### Work Skills ###
@@ -100,10 +100,10 @@
 
 ### arduino_pi ###
 
-1. pi_send_data_to_uno, raspberry PI,a famous card PC, can contorl the UNO, a famous
-   open source single chip micyoco, using GPIO, written with python and C.
-
-2. uno_say_hi_to_pi, UNO send message to raspberry to PI.
+>1. pi_send_data_to_uno, raspberry PI,a famous card PC, can contorl the UNO, a famous
+>  open source single chip micyoco, using GPIO, written with python and C.
+>
+>2. uno_say_hi_to_pi, UNO send message to raspberry to PI.
 
 ## linux_config ##
 
