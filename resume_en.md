@@ -54,17 +54,17 @@
 
 ### 2012.9 - now loongson technology ###
 
-* 2012.9 - 2012.12 loongson 1A linux network performance optimize
+#### 2012.9 - 2012.12 loongson 1A linux network performance optimize ####
 
 > I added a softirq to networking card driver, using softirq handle process to deal
 > the RX/TX data, decreased the interrupt of CPU, increased the efficiency of OS.
 
-* 2012.12 - 2013.1 loongson 2H development board #
+#### 2012.12 - 2013.1 loongson 2H development board #####
 
 > I debuged the lvds LCD screen, and I ported some assembly code to verify the ACPI
 > under pmon(bios), suspend to S3 state,and wakeup OK.
 
-* 2013.1 - 2013.7 loongson 3A vxWorks6.8 2D acceleration
+#### 2013.1 - 2013.7 loongson 3A vxWorks6.8 2D acceleration ####
 
 > I ported the DRM module frme freeBSD kernel to vxWorks,it achieved the hardware 2D
 > acceleration， I finshed some function that GPU can copyed data from system memory
@@ -72,22 +72,22 @@
 > framebuffer to framebuffer(F2F),rectangle solid, region solid, updated the R600 GPU
 > driver to fit the DRM module.
 
-* 2013.8 - 2013.10 loongson 3A vxWorks6.8 3D lib intergration
+#### 2013.8 - 2013.10 loongson 3A vxWorks6.8 3D lib intergration ####
 
 > I integrated the 3D lib that Windriver provided to us, but whitout hardware acceleration
 > work slowly, 3D hardware acceleration is now developing.
 
-* 2013.11 - 2013.12 loongson 3A/2F vxWorks performance contrast test
+#### 2013.11 - 2013.12 loongson 3A/2F vxWorks performance contrast test ####
 
 > I wrote and proted some test programs, calculateing test, storage test, filesystem
 > test, graphic test, networking test, OS performance test.
 
-* 2014.1 - 2014.3 loongson dual-display
+#### 2014.1 - 2014.3 loongson dual-display ####
 
 > fixuped xserver in vxWorks, wrote some function to add dual-head options GPU, and
 > intergrated in vxWorks development environment, it can be configured before build.
 
-* 2014.3 -2014.4 solved loongson 3A vxWorks, windml error under SMP
+#### 2014.3 -2014.4 solved loongson 3A vxWorks, windml error under SMP ####
 
 > fixup the errors in BSP with workmate, windml worked well on SMP system.
 
