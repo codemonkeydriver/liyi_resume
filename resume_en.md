@@ -12,13 +12,9 @@
 * github:           https://github.com/codemonkeydriver
 * E-mail:           codemonkeydriver@gmail.com
 
--------------------
-
 ## Education ##
 
 * 2008.9 - 2012-7 anhui university of science and technology information security (bachelor)
-
--------------------
 
 ## Work Skills ##
 
@@ -36,8 +32,6 @@
 11. good code style, a love of code, try my best
 12. solve problem in work without supervising
 
--------------------
-
 ## Tools ##
 
 * openSUSE linux
@@ -48,9 +42,6 @@
 * oh-my-zsh
 * markdwon
 * evernote
-
--------------------
-
 
 ## Work Experience ##
 
@@ -100,9 +91,6 @@
 
 > fixup the errors in BSP with workmate, windml worked well on SMP system.
 
--------------------
-
-
 ## after-hours project ##
 
 ### libylea ###
@@ -126,8 +114,6 @@
 
 >I read the source code fo wine that a software can run windows application under linux
 >ported wine to MIPS architecture that besed on my workmate.(just reading some code now)
-
--------------------
 
 ## Personal Hobby ##
 
