@@ -23,9 +23,9 @@
 2.  proficient in vxWorks meida lib windml
 3.  proficient in linux, including command, configuration
 4.  skilled in using shell script to finish repeat work automatically
-5.  familiar linux kernel, virtual filesystem(VFS), process scheduling, IPC
-6.  familiar linux dirver model
-7.  skilled in version control system git
+5.  skilled in version control system git
+6.  familiar linux kernel, virtual filesystem(VFS), process scheduling, IPC
+7.  familiar linux dirver model
 8.  understand C++ program language, know essential iteration, viraual function, template .etc
 9.  understand object-oriented design, understand essential design pattern
 10. skilled in reading and writing document
