@@ -14,7 +14,7 @@
 
 ## Education ##
 
-* 2008.9 - 2012-7 anhui university of science and technology information security (bachelor)
+* 2008.9 - 2012.7 anhui university of science and technology information security (bachelor)
 
 ## Work Skills ##
 
