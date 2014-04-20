@@ -1,4 +1,4 @@
-# liyi‘ person resume #
+# liyi‘ personal resume #
 
 ## Personal Information ##
 
@@ -11,11 +11,13 @@
 * blog:             http://cfylee.me
 * github:           https://github.com/codemonkeydriver
 * E-mail:           codemonkeydriver@gmail.com
+
 -------------------
 
 ## Education ##
 
 * 2008.9 - 2012-7 anhui university of science and technology information security (bachelor)
+
 -------------------
 
 ## Work Skills ##
@@ -33,6 +35,7 @@
 10. skilled in reading and writing document
 11. good code style, a love of code, try my best
 12. solve problem in work without supervising
+
 -------------------
 
 ## Tools ##
@@ -45,6 +48,7 @@
 * oh-my-zsh
 * markdwon
 * evernote
+
 -------------------
 
 
@@ -95,6 +99,7 @@
 * 2014.3 -2014.4 solved loongson 3A vxWorks, windml error under SMP
 
 > fixup the errors in BSP with workmate, windml worked well on SMP system.
+
 -------------------
 
 
@@ -121,6 +126,7 @@
 
 >I read the source code fo wine that a software can run windows application under linux
 >ported wine to MIPS architecture that besed on my workmate.(just reading some code now)
+
 -------------------
 
 ## Personal Hobby ##
