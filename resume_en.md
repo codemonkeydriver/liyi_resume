@@ -1,8 +1,5 @@
-# liyi‘ personal resume #
-
-## Personal Information ##
-
-* name:             liyi
+# liyi's  personal resume #
+## Personal Information ## * name:             liyi
 * job intension:    linux system software engineer, linux driver software engineer
 * gender:           male
 * CET:              4
