@@ -1,6 +1,5 @@
 ## liyi‘ person resume ##
 
--------------------
 ### Personal Information ###
 
 * name:             liyi
@@ -13,7 +12,6 @@
 * github:           https://github.com/codemonkeydriver
 * E-mail:           codemonkeydriver@gmail.com
 
--------------------
 ### Work Skills ###
 
 0.  familiar MIPS architecture
@@ -30,7 +28,6 @@
 11. good code style, a love of code, try my best
 12. solve problem in work without supervising
 
--------------------
 ### Tools ###
 
 * openSUSE linux
@@ -42,12 +39,10 @@
 * markdwon
 * evernote
 
--------------------
 ## Education ##
 
 * 2008.9 - 2012-7 anhui university of science and technology information security (bachelor)
 
--------------------
 ## Work Experience ##
 
 ### 2012.3 - 2012.6 yunnan linux technology suppert center ##
@@ -97,7 +92,6 @@
 > fixup the errors in BSP with workmate, windml worked well on SMP system.
 
 
--------------------
 ## after-hours project ##
 
 ### libylea ###
@@ -122,7 +116,6 @@
 >I read the source code fo wine that a software can run windows application under linux
 >ported wine to MIPS architecture that besed on my workmate.(just reading some code now)
 
--------------------
 ## Personal Hobby ##
 
 * bicycle
